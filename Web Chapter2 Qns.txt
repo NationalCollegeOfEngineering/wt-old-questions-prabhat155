@@ -1,0 +1,38 @@
+Chapter 2: Web Basics
+
+1. Explain CSS (Cascading Style Sheet). How external style sheets can be inserted in a html document. Illustrate with example. [2080 B]
+2. What is CSS? Explain its types with example. [2079 R]
+3. Explain the working of web crawlers. [2076 R]
+4. Write the HTML5 code to accept input from a user for registering in IOE examination form. The required inputs should be FirstName, Email, CollegeName, Gender, ExamType (i.e. Regular or Back). [2076 R]
+6. Given is the HTML code:      [2074 R]
+<html> 
+<head> 
+</head> 
+<body>
+     <div style="padding: 10px;float:left;">
+	<div id="leftbox" style="width:100px;height:100px;float:left,border: solid 1px;”>
+	    ON LEFT 
+	</div>
+	   <div id="rightbox" style="width: 100px;height:100px;f1oat:lleft;border: solid 1px;"> 		    	     ON RIGHT
+	   </div> 
+    </div>
+</body>
+</html>
+	The output of the above code is:
+
+
+
+
+
+
+
+Use CSS Box model (margin/padding) to do the following:
+Separate left and right box by a total of 10 px.
+Move text “ON LEFT” by 10 px towards right
+Move text “ON RIGHT” by 10 px towards right
+
+7. Define web documents and web browser? Expalin major steps of information retrieval. [2074 R]
+
+
+
+

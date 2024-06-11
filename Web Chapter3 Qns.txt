@@ -1,0 +1,7 @@
+Chapter 3: Server Side Programming
+
+1. Explain how CGI server-side script execution works. [2080 B]
+2. Write the program to connect database and insert a data using server-side scripting language [Assume database_name “employee", table_name "info" with columns id, firstname, lastname, address, post and contact]. [2079 R]
+3. What do you mean by Server side processing? Explain Multitier architecture?  [2078 R]
+4. Explain the CGI server side script execution mechanism. [2076 R]
+5. Explain any three server side scripting language used in web? Explain multi-tier architecture. [2074 R]

@@ -1,0 +1,8 @@
+Chapter 1: Introduction
+
+1. What is Internet? Explain the importance of web technology. [2080 Back]
+2. What is internet and web? Differentiate web1.0, web 2.0 and web 3.0. [2079 Regular]
+3. What is Internet and Web? Explain the importance of Web Technology. [2078 R]
+4. Explain how internet evolved. [2076 R]
+5. Difference between internet and WWW. Explain Client Server computing paradigm and provide its importance. [2074 R]
+6. How internet evolved? Explain the importance of web technology. [2074 B]
